@@ -314,25 +314,4 @@ class search(commands.Command):
                         credential.website))
 
             outfd.write('\n--- --- --- --- --- --- --- ---\n')
-
-
-
-
-
-
-
-
-            # os.system("pause")
-            # for i in range(len(browsers_process)):
-            #    if str(process.ImageFileName).lower() in str(browsers_process[i]['process']):
-
-            # os.system("pause")
-
-
-
-            #        # Create temp file
-            #        target = open('C:\TFE_LOCAL\_resume.txt', 'w')
-            #        target.truncate()
-            #        target.write(str(proc))
-            #        target.write("\n")
-
+			
